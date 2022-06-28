@@ -1,0 +1,21 @@
+
+#j{
+    font-weight: bolder ;
+    font-style: italic;
+    font-size: 26px;
+}
+
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    text-decoration: underline;
+}
+h2{
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 36px;
+}
